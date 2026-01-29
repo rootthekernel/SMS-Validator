@@ -1,4 +1,4 @@
-# Gizlilik Politikası – [Uzantı Adı]
+# Gizlilik Politikası – [SMS Validator]
 Son güncelleme: 2026-01-28
 
 ## 1) Amaç
@@ -24,4 +24,4 @@ Veriler cihaz üzerinde saklanır. Kullanıcının cihaz güvenliği ve tarayıc
 Kullanıcı uzantı ayarlarından verileri temizleyebilir. Uzantı kaldırıldığında tarayıcı depolamasındaki veriler silinir.
 
 ## 7) İletişim
-Gizlilik ile ilgili sorular için: [senin-email@domain.com]
+Gizlilik ile ilgili sorular için: github.com/rootthekernel
